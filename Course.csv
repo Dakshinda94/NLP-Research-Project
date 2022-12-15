@@ -1,0 +1,278 @@
+index,Type,CourseName,Provided_by,Course_duration,Course_content
+0,IT,Dip in IT,Esoft,1 year,"computer Applications , networking , database,software engineering"
+1,IT,HND in Computing,Esoft,2 Years,"programming , networking , database, software engineering"
+2,IT,HND in Software Enginering,Nsbm,3 Years,"computer Applications , networking , database, software engineering"
+3,IT,HND in Cyber,Nsbm,4 Years,"computer Applications , networking , database, software engineering"
+4,IT,BSc in Information Technology Specialising in Information Technology,SLIIT,4 Years,"software design , software engineering, operating systems, systems administration, technical support, networking"
+5,IT,BSc in Information Technology Specialising in Computer System & Network Engineering,SLIIT,4 Years,"computer hardware, network engineering, embedded systems, communication systems, interface design, automation."
+6,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,4 Years,"computer science, project management, engineering, application domains, interface design, digital assets management"
+7,IT,"BSc (Hons) in Information Technology
+Specialising in Information Systems Engineering",SLIIT,4 Years,"Project management, Software quality assurance, Data management"
+8,IT,"BSc (Hons) in Information Technology
+Specialising in Cyber Security",SLIIT,4 Years,"cyber/information security,computer, network and information security."
+9,Biology,Higher Diploma in Nursing,SLIIT,3 Years,"Nursing, Chmistry, Medical, Lab Practical"
+10,Biology,B.Ed (Hons) in Biological Sciences,SLIIT,4 Years," Biological Science,Nursing,Teach subjects of Biology and Chemistry."
+11,Biology,B.Ed (Hons) in Physical Sciences,SLIIT,4 Years,"Physical Sciences, Physics and Mathematics."
+12,Biology,BSc (Hons) in Biotechnology,SLIIT,4 Years,"Biotechnology, Biology, Nursing, Lab Assistant"
+13,Biology,"BSc (Hons) Nursing (International)
+Top Up Degree",SLIIT,4 Years,Nursing
+14,Biology,BSc (Hons) Psychology,SLIIT,4 Years,"Psychology,  human mind and behaviour, analytical skills and Nursing"
+15,Commerce,Dip in Management,Nsbm,1 year,"HRM ,  Finance , accounting skills"
+16,Commerce,HND in Management,Nsbm,2 Years,"Marketing , HRM , Finance , accounting skills"
+17,Commerce,Dip in Management,Nsbm,1 year,"HRM ,  Finance , accounting skills"
+18,Commerce,HND in Management,Nsbm,2 Years,"Marketing , HRM , Finance , accounting skills"
+19,Commerce,Bsc,SLIIT,4 Years,Marketing  and Management.
+20,Commerce,Bsc,SLIIT,4 Years,Marketing  and Management.
+21,Commerce,Bsc,SLIIT,4 Years,Marketing  and Management.
+22,Commerce,Bsc,SLIIT,2 Years,Marketing  and Management.
+23,Commerce,Bsc,SLIIT,2 Years,Marketing  and Management.
+24,Commerce,Bsc,SLIIT,4 Years,Marketing  and Management.
+25,Commerce,Bsc,SLIIT,4 Years,Marketing  and Management.
+26,Biology,Diploma,Asiri,2 Years,Chemistry and Medicine.
+27,Biology,Diploma,Asiri,3 Years,Chemistry and Medicine.
+28,Biology,Diploma,Asiri,4 Years,Chemistry and Medicine.
+29,Biology,Diploma,Asiri,5 Years,Chemistry and Medicine.
+30,Biology,Diploma,Asiri,6 Years,Chemistry and Medicine.
+31,Biology,Diploma,Asiri,7 Years,Chemistry and Medicine.
+32,Biology,Diploma,Asiri,8 Years,Chemistry and Medicine.
+33,Biology,Diploma,Asiri,9 Years,Chemistry and Medicine.
+34,Biology,Diploma,Asiri,10 Years,Chemistry and Medicine.
+35,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,4 Years,"software engineering,computer science, project management, coding skills"
+36,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,3 Years,"software engineering,computer science, project management, coding skills"
+37,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,4 Years,"software engineering,computer science, project management, coding skills"
+38,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,4 Years,"software engineering,computer science, project management, coding skills"
+39,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,4 Years,"software engineering,computer science, project management, coding skills"
+40,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,3 Years,"software engineering,computer science, project management, coding skills"
+41,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,3 Years,"software engineering,computer science, project management, coding skills"
+42,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,3 Years,"software engineering,computer science, project management, coding skills"
+43,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,2 Years,"software engineering,computer science, project management, coding skills"
+44,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,2 Years,"software engineering,computer science, project management, coding skills"
+45,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,2 Years,"software engineering,computer science, project management, coding skills"
+46,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,2 Years,"software engineering,computer science, project management, coding skills"
+47,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,Java programming skills and problem solving skills
+48,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,Java programming skills and problem solving skills
+49,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,2 years,Java programming skills and problem solving skills
+50,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,1 years,Java programming skills and problem solving skills
+51,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,Java programming skills and problem solving skills
+52,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,Java programming skills and problem solving skills
+53,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,1 years,Java programming skills and problem solving skills
+54,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,Java programming skills and problem solving skills
+55,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,Java programming skills and problem solving skills
+56,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,Java programming skills and problem solving skills
+57,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,2 years,Java programming skills and problem solving skills
+58,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,.Net programming skills and problem solving skills
+59,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,.Net programming skills and problem solving skills
+60,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,.Net programming skills and problem solving skills
+61,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,2 years,.Net programming skills and problem solving skills
+62,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,2 years,.Net programming skills and problem solving skills
+63,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,2 years,.Net programming skills and problem solving skills
+64,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,1 years,.Net programming skills and problem solving skills
+65,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,1 years,.Net programming skills and problem solving skills
+66,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,1 years,.Net programming skills and problem solving skills
+67,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,.Net programming skills and problem solving skills
+68,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,.Net programming skills and problem solving skills
+69,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,.Net programming skills and problem solving skills
+70,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,.Net programming skills and problem solving skills
+71,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,Web development skills and Front End development skills
+72,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,Web development skills and Front End development skills
+73,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,1 years,Web development skills and Front End development skills
+74,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,2 years,Web development skills and Front End development skills
+75,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,Web development skills and Front End development skills
+76,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,Web development skills and Front End development skills
+77,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,Web development skills and Front End development skills
+78,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,Web development skills and Front End development skills
+79,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,Web development skills and Front End development skills
+80,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,"Java Skill, C# Skill, React Skill, web design"
+81,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,2 years,"Java Skill, C# Skill, React Skill, web design"
+82,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,2 years,"Java Skill, C# Skill, React Skill, web design"
+83,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,"Java Skill, C# Skill, React Skill, web design"
+84,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,3 years,"Java Skill, C# Skill, React Skill, web design"
+85,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,4 years,"Java Skill, C# Skill, React Skill, web design"
+86,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,1 years,"Java Skill, C# Skill, React Skill, web design"
+87,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,1 years,"Java Skill, C# Skill, React Skill, web design"
+88,IT,BSc in Information Technology Specialising in Software Engineering,SlIIT,1 years,"Java Skill, C# Skill, React Skill, web design"
+89,Commerce,HND in Management,Nsbm,2 Years,Accounting Practices Knowladge
+90,Commerce,HND in Management,Nsbm,3 Years,Accounting Practices Knowladge
+91,Commerce,HND in Management,Nsbm,4 Years,Accounting Practices Knowladge
+92,Commerce,HND in Management,Nsbm,2 Years,Accounting Practices Knowladge
+93,Commerce,HND in Management,Nsbm,2 Years,Accounting Practices Knowladge
+94,Commerce,HND in Management,Nsbm,1 Years,Accounting Practices Knowladge
+95,Commerce,HND in Management,Nsbm,1 Years,Accounting Practices Knowladge
+96,Commerce,HND in Management,Nsbm,1 Years,Accounting Practices Knowladge
+97,Commerce,HND in Management,Nsbm,2 Years,Accounting Practices Knowladge
+98,Commerce,HND in Management,Nsbm,2 Years,Accounting Practices Knowladge
+99,Biology,Diploma,Asiri,4 Years,Chemistry Knowladge
+100,Biology,Diploma,Asiri,3 Years,Chemistry Knowladge
+101,Biology,Diploma,Asiri,4 Years,Chemistry Knowladge
+102,Biology,Diploma,Asiri,3 Years,Chemistry Knowladge
+103,Biology,Diploma,Asiri,2 Years,Chemistry Knowladge
+104,Biology,Diploma,KDA,2 Years,Chemistry Knowladge
+105,Biology,Diploma,KDA,2 Years,Chemistry Knowladge
+106,Biology,Diploma,KDA,1 Years,Chemistry Knowladge
+107,Biology,Diploma,Asiri,1 Years,Chemistry Knowladge
+108,Biology,Diploma,Asiri,4 Years,Chemistry Knowladge
+109,Biology,Diploma,Asiri,4 Years,Chemistry Knowladge
+110,Biology,Diploma,Asiri,4 Years,physics knowladge
+111,Biology,Diploma,Asiri,3 Years,physics knowladge
+112,Biology,Diploma,MAD,2 Years,physics knowladge
+113,Biology,Diploma,MAD,1 Years,physics knowladge
+114,Biology,Diploma,MAD,2 Years,physics knowladge
+115,Biology,Diploma,MAD,4 Years,biology knowladge
+116,Biology,Diploma,MAD,1 Years,biology knowladge
+117,Biology,Diploma,Asiri,2 Years,biology knowladge
+118,Biology,Diploma,Asiri,4 Years,biology knowladge
+119,Biology,Diploma,Asiri,3 Years,biology knowladge
+120,Biology,Diploma,Asiri,4 Years,biology knowladge
+121,Biology,Diploma,Asiri,1 Years,biology knowladge
+122,Biology,Diploma in Nursing,Asiri,1 Years,Nursing Knowladge
+123,Biology,Diploma in Nursing,Asiri,3 Years,Nursing Knowladge
+124,Biology,Diploma in Nursing,KDA,2 Years,Nursing Knowladge
+125,Biology,Diploma in Nursing,Asiri,4 Years,Nursing Knowladge
+126,Biology,Diploma in Nursing,KDA,4 Years,Nursing Knowladge
+127,Biology,Diploma in Nursing,KDA,1 Years,Nursing Knowladge
+128,Biology,Diploma in Nursing,KDA,3 Years,Nursing Knowladge
+129,Commerce,HND in Management,Green University,2 Years,Prepare Financial Statements Knowladge
+130,Commerce,HND in Management,Green University,3 Years,Prepare Financial Statements Knowladge
+131,Commerce,HND in Management,Green University,4 Years,Prepare Financial Statements Knowladge
+132,Commerce,HND in Management,Green University,3 Years,Prepare Financial Statements Knowladge
+133,Commerce,HND in Management,Green University,2 Years,Prepare Financial Statements Knowladge
+134,Commerce,HND in Management,Green University,3 Years,Prepare Financial Statements Knowladge
+135,Commerce,HND in Management,Green University,2 Years,Prepare Financial Statements Knowladge
+136,Commerce,HND in Management,Green University,4 Years,Prepare Financial Statements Knowladge
+137,Commerce,HND in Management,Green University,1 Years,Prepare Financial Statements Knowladge
+138,Commerce,HND in Management,Green University,1 Years,Prepare Financial Statements Knowladge
+139,Commerce,HND in Management,Esoft,2 Years,Prepare Financial Statements Knowladge
+140,Commerce,HND in Management,SLIIT,3 Years,Prepare Financial Statements Knowladge
+141,Commerce,HND in Management,SLIIT,4 Years,General Business Practices Knowladge
+142,Commerce,HND in Management,SLIIT,4 Years,General Business Practices Knowladge
+143,Commerce,HND in Management,SLIIT,2 Years,General Business Practices Knowladge
+144,Commerce,HND in Management,SLIIT,1 Years,General Business Practices Knowladge
+145,Commerce,HND in Management,NSBM,4 Years,General Business Practices Knowladge
+146,Commerce,HND in Management,NSBM,1 Years,General Business Practices Knowladge
+147,Commerce,HND in Management,NSBM,2 Years,General Business Practices Knowladge
+148,Commerce,HND in Management,NSBM,2 Years,General Business Practices Knowladge
+149,Commerce,HND in Management,NSBM,2 Years,General Business Practices Knowladge
+150,Commerce,HND in Management,NSBM,3 Years,General Business Practices Knowladge
+151,Commerce,HND in Management,SLIIT,4 Years,General Business Practices Knowladge
+152,Commerce,HND in Management,SLIIT,4 Years,General Business Practices Knowladge
+153,Commerce,HND in Management,SLIIT,3 Years,General Business Practices Knowladge
+154,Commerce,HND in Management,SLIIT,2 Years,General Business Practices Knowladge
+155,Commerce,HND in Management,Esoft,1 Years,General Business Practices Knowladge
+156,Commerce,HND in Management,Esoft,2 Years,General Business Practices Knowladge
+157,Commerce,HND in Management,Esoft,2 Years,General Business Practices Knowladge
+158,Commerce,HND in Management,Esoft,3 Years,General Business Practices Knowladge
+159,Commerce,HND in Management,Esoft,4 Years,Accounting Organizational Knowladge
+160,Commerce,HND in Management,NSBM,2 Years,Accounting Organizational Knowladge
+161,Commerce,HND in Management,Esoft,2 Years,Accounting Organizational Knowladge
+162,Commerce,HND in Management,NSBM,4 Years,Accounting Organizational Knowladge
+163,Commerce,HND in Management,NSBM,4 Years,Accounting Organizational Knowladge
+164,Commerce,HND in Management,NSBM,3 Years,Accounting Organizational Knowladge
+165,Commerce,HND in Management,NSBM,1 Years,Accounting Organizational Knowladge
+166,Commerce,HND in Management,NSBM,1 Years,Accounting Organizational Knowladge
+167,Commerce,HND in Management,Esoft,2 Years,Accounting Organizational Knowladge
+168,Commerce,HND in Management,Esoft,3 Years,Accounting Organizational Knowladge
+169,Commerce,HND in Management,Esoft,4 Years,Accounting Organizational Knowladge
+170,Commerce,HND in Management,Esoft,1 Years,Accounting Organizational Knowladge
+171,Commerce,HND in Management,Esoft,2 Years,Time Management Skills
+172,Commerce,HND in Management,Esoft,3 Years,Time Management Skills
+173,Commerce,HND in Management,Esoft,4 Years,Time Management Skills
+174,Commerce,HND in Management,Esoft,4 Years,Time Management Skills
+175,Commerce,HND in Management,Esoft,2 Years,Time Management Skills
+176,Commerce,HND in Management,Esoft,3 Years,Time Management Skills
+177,Commerce,HND in Management,Esoft,4 Years,Time Management Skills
+178,Commerce,HND in Management,Esoft,2 Years,Time Management Skills
+179,Commerce,HND in Management,Esoft,1 Years,Time Management Skills
+180,Commerce,HND in Management,Esoft,1 Years,Time Management Skills
+181,Commerce,HND in Management,Esoft,2 Years,Time Management Skills
+182,Commerce,HND in Management,Esoft,3 Years,Time Management Skills
+183,Commerce,HND in Management,Esoft,4 Years,Time Management Skills
+184,Commerce,HND in Management,Esoft,1 Years,Time Management Skills
+185,Commerce,HND in Management,Esoft,2 Years,Basic knowledge of taxes
+186,Commerce,HND in Management,Esoft,3 Years,Basic knowledge of taxes
+187,Commerce,HND in Management,Esoft,4 Years,Basic knowledge of taxes
+188,Commerce,HND in Management,Esoft,1 Years,Basic knowledge of taxes
+189,Commerce,HND in Management,Esoft,2 Years,Basic knowledge of taxes
+190,Commerce,HND in Management,Esoft,3 Years,Basic knowledge of taxes
+191,Commerce,HND in Management,Esoft,4 Years,Basic knowledge of taxes
+192,Commerce,HND in Management,Esoft,2 Years,Basic knowledge of taxes
+193,Commerce,HND in Management,Esoft,1 Years,Basic knowledge of taxes
+194,Commerce,HND in Management,Esoft,1 Years,Basic knowledge of taxes
+195,Commerce,HND in Management,Esoft,2 Years,Basic knowledge of taxes
+196,Commerce,HND in Management,SLIIT,3 Years,Basic knowledge of taxes
+197,Commerce,HND in Management,SLIIT,4 Years,Basic knowledge of taxes
+198,Commerce,HND in Management,SLIIT,1 Years,Basic knowledge of taxes
+199,Commerce,HND in Management,SLIIT,2 Years,Financial analysis
+200,Commerce,HND in Management,SLIIT,3 Years,Financial analysis
+201,Commerce,HND in Management,SLIIT,4 Years,Financial analysis
+202,Commerce,HND in Management,Esoft,1 Years,Financial analysis
+203,Commerce,HND in Management,Esoft,2 Years,Financial analysis
+204,Commerce,HND in Management,Esoft,2 Years,Financial analysis
+205,Commerce,HND in Management,Esoft,3 Years,Financial analysis
+206,Commerce,HND in Management,Esoft,2 Years,Financial analysis
+207,Commerce,HND in Management,SLIIT,1 Years,Financial analysis
+208,Commerce,HND in Management,Esoft,1 Years,Financial analysis
+209,Commerce,HND in Management,SLIIT,2 Years,Financial analysis
+210,Commerce,HND in Management,SLIIT,3 Years,Financial analysis
+211,Commerce,HND in Management,SLIIT,4 Years,Financial analysis
+212,Commerce,HND in Management,SLIIT,1 Years,Financial analysis
+213,Commerce,HND in Management,SLIIT,1 Years,Financial analysis
+214,Commerce,HND in Management,Green University,2 Years,Project Management Skills
+215,Commerce,HND in Management,Green University,3 Years,Project Management Skills
+216,Commerce,HND in Management,Green University,4 Years,Project Management Skills
+217,Commerce,HND in Management,Green University,5 Years,Project Management Skills
+218,Commerce,HND in Management,Green University,6 Years,Project Management Skills
+219,Commerce,HND in Management,Green University,7 Years,Project Management Skills
+220,Commerce,HND in Management,Green University,8 Years,Project Management Skills
+221,Commerce,HND in Management,Green University,9 Years,Project Management Skills
+222,Commerce,HND in Management,Green University,10 Years,Project Management Skills
+223,Commerce,HND in Management,Green University,11 Years,Project Management Skills
+224,Commerce,HND in Management,Green University,12 Years,Project Management Skills
+225,Commerce,HND in Management,Green University,13 Years,Project Management Skills
+226,Commerce,HND in Management,Green University,14 Years,Project Management Skills
+227,Commerce,HND in Management,Green University,15 Years,Project Management Skills
+228,Commerce,HND in Management,Green University,16 Years,Project Management Skills
+229,Commerce,HND in Management,Green University,17 Years,Project Management Skills
+230,Commerce,HND in Management,Green University,18 Years,Project Management Skills
+231,Commerce,HND in Management,Green University,19 Years,Project Management Skills
+232,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,4 Years,software engineering Skills
+233,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,2 Years,software engineering Skills
+234,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,2 Years,software engineering Skills
+235,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,3 Years,software engineering Skills
+236,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,1 Years,software engineering Skills
+237,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,1 Years,software engineering Skills
+238,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,2 Years,software engineering Skills
+239,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,4 Years,software engineering Skills
+240,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,4 Years,software engineering Skills
+241,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,4 Years,Coding skills
+242,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,4 Years,Coding skills
+243,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,2 Years,Coding skills
+244,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,1 Years,Coding skills
+245,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,1 Years,Coding skills
+246,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,1 Years,Coding skills
+247,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,3 Years,Coding skills
+248,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,4 Years,Coding skills
+249,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,2 Years,Coding skills
+250,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,2 Years,Coding skills
+251,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,3 Years,Coding skills
+252,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,3 Years,Coding skills
+253,IT,BSc in Information Technology Specialising in Software Engineering,SLIIT,3 Years,Coding skills
+254,IT,HND in Computing,Esoft,2 Years,programming
+255,IT,HND in Computing,Esoft,3 Years,programming
+256,IT,HND in Computing,Esoft,4 Years,programming
+257,IT,HND in Computing,Esoft,1 Years,programming
+258,IT,HND in Computing,Esoft,2 Years,programming
+259,IT,HND in Computing,Esoft,1 Years,programming
+260,IT,HND in Computing,Esoft,4 Years,programming
+261,IT,HND in Computing,Esoft,3 Years,programming
+262,IT,HND in Computing,Esoft,2 Years,programming
+263,IT,HND in Computing,Esoft,1 Years,programming
+264,IT,HND in Cyber Security,Esoft,2 Years,Cyber Security
+265,IT,HND in Cyber Security,Esoft,3 Years,Cyber Security
+266,IT,HND in Cyber Security,Esoft,4 Years,Cyber Security
+267,IT,HND in Cyber Security,Esoft,1 Years,Cyber Security
+268,IT,HND in Cyber Security,Esoft,2 Years,Cyber Security
+269,IT,HND in Cyber Security,Esoft,4 Years,Cyber Security
+270,IT,HND in Cyber Security,Esoft,3 Years,Cyber Security
+271,IT,HND in Cyber Security,Esoft,4 Years,Cyber Security
+272,IT,HND in Cyber Security,Esoft,2 Years,Cyber Security
+273,IT,HND in Cyber Security,Esoft,1 Years,Cyber Security
